@@ -1,4 +1,4 @@
-# EventOrganizer
+# Event LM
 
 An iOS app coded in SwiftUI designed to organize sporting and club events for students. This app allows users to efficiently manage event details including time, location, records, schedules, and updates.
 
